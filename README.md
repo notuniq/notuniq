@@ -36,8 +36,8 @@ Linux (Ubuntu)
 
 ## 🚀 Проекты
 
-### 🔹 ADV Projects  
-Full-stack платформа для разработки и управления проектами  
+### 🔹 ADV Projects (Закрыто)
+Автоматизация Discord и Steam
 
 - Backend: Python / Node.js  
 - REST API с авторизацией (JWT)  
