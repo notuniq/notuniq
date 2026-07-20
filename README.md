@@ -1,83 +1,67 @@
-# 👋 Привет, я Python / JavaScript разработчик
+<h1 align="center">notuniq</h1>
 
-💻 Full-stack разработчик с фокусом на backend и автоматизацию  
-🚀 Создаю веб-приложения, API и инструменты для оптимизации процессов  
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+</div>
 
-## 🛠 Технологии
+###
 
-**Языки:**  
-Python, JavaScript, Java (Junior), C# (Junior)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
-**Frontend:**  
-React, HTML5, CSS3, адаптивная верстка  
-Работа с API (axios, fetch), Telegram WebApps  
+###
 
-**Backend:**  
-Node.js, Python  
-Разработка REST API  
-Аутентификация и авторизация (JWT)  
-Асинхронное программирование  
-WebSockets  
-Интеграция внешних API, Webhooks  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+</div>
 
-**Базы данных:**  
-PostgreSQL, MongoDB  
-Проектирование и оптимизация БД  
-SQLAlchemy  
+###
 
-**Инструменты:**  
-Git, GitHub, GitHub Actions (CI/CD)  
-Postman, Swagger  
-Linux (Ubuntu)  
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=notuniq&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
----
+###
 
-## 🚀 Проекты
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=notuniq&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
-### 🔹 ADV Projects (Закрыто)
-Автоматизация Discord и Steam
+###
 
-- Backend: Python / Node.js  
-- REST API с авторизацией (JWT)  
-- Работа с PostgreSQL / MongoDB  
-- Интеграция внешних API и Webhooks  
-- Асинхронная обработка данных  
-- Frontend на React  
-
-🌐 https://advprojects.space/
-
----
-
-### 🔹 EcTable  
-Telegram WebApp для просмотра расписания СПбГУ  
-
-- Telegram Bot + WebApp  
-- Интеграция с API расписания  
-- Удобный интерфейс внутри Telegram  
-- Обработка и визуализация данных  
-
-🤖 https://t.me/ectablebot  
-
----
-
-## 💡 Чем занимаюсь
-
-- Разработка веб-приложений и сервисов  
-- Создание REST API  
-- Автоматизация бизнес-процессов  
-- Интеграция сторонних сервисов  
-- Разработка Telegram-ботов  
-
----
-
-## 📫 Контакты
-
-- Telegram: @notuniq   
-
----
-
-## ⚡ Дополнительно
-
-Интересуюсь backend-разработкой, архитектурой сервисов и созданием удобных решений для бизнеса
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notuniq/notuniq/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notuniq/notuniq/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/notuniq/notuniq/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
